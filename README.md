@@ -167,6 +167,6 @@ text
 ---
 
 ## 👤 Author
-**Prathmesh Kapde**  
-📧 prathmkapde17@gmail.com  
+**Rohit Chauhan**  
+📧 rohiychauhan@gmail.com 
 💼 Machine Learning & Data Science Enthusiast
